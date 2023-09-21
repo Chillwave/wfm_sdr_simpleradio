@@ -10,6 +10,21 @@
 - rtl-sdr package
 - An SDR device supported by OsmoSDR and rtl-sdr (e.g., RTL-SDR)
 
+## Hardware
+
+Popular options within the field, the entry tier is a great device to learn with. Here are some options on Amazon:
+
+### Entry Tier (27MHz-1700MHz)
+
+[NooElec NESDR Mini USB RTL-SDR & ADS-B Receiver Set](https://www.amazon.com/NooElec-NESDR-Mini-Compatible-Packages/dp/B009U7WZCA)
+
+### Mid Tier (65MHz-2300MHz)
+
+[NooElec NESDR Smart XTR SDR](https://www.amazon.com/NooElec-NESDR-Smart-XTR-SDR/dp/B06Y1HKLHY/)
+
+### High Tier (1MHz to 6GHz)
+
+[Software Defined Radio, 1MHz-6GHz SDR Platform Software Defined Radio Development Board](https://www.amazon.com/Software-1MHz-6GHz-Frequency-Bandwidth-Adapters/dp/B0BKH7Z2N)
 ## Usage
 
 1. Run the `rtl_tcp` utility in a separate terminal to start the TCP server:

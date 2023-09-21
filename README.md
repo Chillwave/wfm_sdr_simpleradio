@@ -24,7 +24,7 @@ Popular options within the field, the entry tier is a great device to learn with
 
 ### High Tier (1MHz to 6GHz)
 
-[Software Defined Radio, 1MHz-6GHz SDR Platform Software Defined Radio Development Board](https://www.amazon.com/Software-1MHz-6GHz-Frequency-Bandwidth-Adapters/dp/B0BKH7Z2N)
+[Nooelec HackRF One SDR](https://www.amazon.com/Software-1MHz-6GHz-Frequency-Bandwidth-Adapters/dp/B0BKH7Z2NJ)
 ## Usage
 
 1. Run the `rtl_tcp` utility in a separate terminal to start the TCP server:
